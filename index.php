@@ -182,6 +182,23 @@
                   </div>
           		</div> <!-- item end -->
 
+                <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-04" title="">
+                        <img alt="" src="images/portfolio/office-work.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Office Assistant</h5>
+                              <p>Oster Scales, INDIA</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
 
             </div> <!-- portfolio-wrapper end -->
 
@@ -240,7 +257,30 @@
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
-	      </div><!-- modal-02 End -->
+	      </div><!-- modal-03 End -->
+
+          <div id="modal-04" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" style="" src="images/portfolio/modals/office-work.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Office Assistant (Sept 2014 - June 2015)<br>Oster Scales, INDIA</h4>
+			      <p>Assisted clients in person and through email<br>
+                      Provided assistance in production of weighing machines<br>
+                      Assigned work to manufacturing department<br>
+                      Kept records of parts used in manufacturing
+                  </p>
+               <span class="categories"><i class="fa fa-tag"></i>work</span>
+		      </div>
+
+            <div class="link-box">
+
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-03 End -->
+
+
 
 
 
