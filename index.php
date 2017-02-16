@@ -169,7 +169,7 @@
                   <div class="item-wrap">
 
                      <a href="#modal-03" title="">
-                        <img alt="" src="images/portfolio/lol.jpg">
+                        <img alt="" src="images/portfolio/photogallery.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>ThirdEye</h5>
