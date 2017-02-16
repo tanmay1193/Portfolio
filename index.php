@@ -165,6 +165,23 @@
                   </div>
           		</div> <!-- item end -->
 
+                <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-03" title="">
+                        <img alt="" src="images/portfolio/lol.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>ThirdEye</h5>
+                              <p>PhotoGallery Website</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
 
             </div> <!-- portfolio-wrapper end -->
 
@@ -203,6 +220,23 @@
 
             <div class="link-box">
                <a href="https://allaboutleagueoflegends.herokuapp.com/" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-02 End -->
+
+          <div id="modal-03" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" style="" src="images/portfolio/modals/photogallery.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Third Eye - PhotoGallery</h4>
+			      <p>My PhotoGallery Website features photos taken by me :-) </p>
+               <span class="categories"><i class="fa fa-tag"></i>Photography, lumix</span>
+		      </div>
+
+            <div class="link-box">
+               <a href="https://thirdeyephotogallery.herokuapp.com/" target="_blank">Details</a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
