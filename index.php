@@ -331,7 +331,7 @@
 
             <div class="ten columns">
 
-                  <p class="lead">Contact Me</p>
+                  <p class="lead">Contact Info.</p>
 
             </div>
 
@@ -342,46 +342,8 @@
             <div class="eight columns">
 
                <!-- form -->
-               <form action="" method="post" id="contactForm" name="contactForm">
-					<fieldset>
 
-                  <div>
-						   <label for="contactName">Name <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactName" name="contactName">
-                  </div>
-
-                  <div>
-						   <label for="contactEmail">Email <span class="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
-                  </div>
-
-                  <div>
-						   <label for="contactSubject">Subject</label>
-						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject">
-                  </div>
-
-                  <div>
-                     <label for="contactMessage">Message <span class="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
-                  </div>
-
-                  <div>
-                     <button class="submit">Submit</button>
-                     <span id="image-loader">
-                        <img alt="" src="images/loader.gif">
-                     </span>
-                  </div>
-
-					</fieldset>
-				   </form> <!-- Form End -->
-
-               <!-- contact-warning -->
-               <div id="message-warning"> Error boy</div>
-               <!-- contact-success -->
-				   <div id="message-success">
-                  <i class="fa fa-check"></i>Your message was sent, thank you!<br>
-				   </div>
-
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2899.293631326121!2d-80.41094858480763!3d43.3917917791311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b8a7e6a4b4a0b%3A0x700f6c1536a0737!2s214+Doon+Valley+Dr%2C+Kitchener%2C+ON+N2P+2B5!5e0!3m2!1sen!2sca!4v1487199795673" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
 
 
