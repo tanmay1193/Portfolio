@@ -189,8 +189,8 @@
                         <img alt="" src="images/portfolio/office-work.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Office Assistant</h5>
-                              <p>Oster Scales, INDIA</p>
+          					      <h5>Analyst</h5>
+                              <p>Oster Scales and Laboratory Equipment, INDIA</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -214,7 +214,16 @@
 
 		      <div class="description-box">
 			      <h4>Resume Designer (Janunary 2014 - May 2014)<br>4 month Intership at Collabera, INDIA for Completion of Bachelors Degree in Computer Application</h4>
-			      <p>Developed a “Resume Designer” application on android IDE using front-end technologies: HTML, CSS, Java-script and Phonegap and back-end technologies: PHP and MySQL and incorporates a pdf save feature to an SD card.</p>
+
+                  <ul>
+                      <li>•	Developed a “Resume Designer” Application on the Android IDE(Platform)</li>
+                      <li>•	Front-end technologies: HTML, CSS, Java-script, JQuery and Phonegap</li>
+                      <li>•	Designed User Interface for Applications using html, css and Jquerymobile.</li>
+                      <li>•	Created Client-side JavaScript functions for performing actions.</li>
+                      <li>•	Back-end technologies: PHP and MySQL</li>
+                      <li>•	Application incorporates a pdf save feature to an SD card</li>
+                  </ul>
+
                <span class="categories"><i class="fa fa-tag"></i>Mobile app, android</span>
 		      </div>
 
@@ -265,11 +274,22 @@
 
 		      <div class="description-box">
 			      <h4>Office Assistant (Sept 2014 - June 2015)<br>Oster Scales, INDIA</h4>
-			      <p>Assisted clients in person and through email<br>
-                      Provided assistance in production of weighing machines<br>
-                      Assigned work to manufacturing department<br>
-                      Kept records of parts used in manufacturing
-                  </p>
+			      <ul>
+                      <li>•	Worked with client in designing Page Object Model framework for selenium</li>
+                      <li>•	Performed manual testing on web and mobile application</li>
+                      <li>•	Created test script using TestNG Annotation and POI Library</li>
+                      <li>•	Designed templates for company brochures using Adobe Photoshop.</li>
+                      <li>•	Used Jenkin for continuous integration</li>
+                      <li>•	Worked on JIRA for task allocation, test case design, defect management, timesheet</li>
+                      <li>•	Created POC for Mobile automation testing using Appium and Selenium</li>
+                      <li>•	Created daily status reports and weekly status report for the client</li>
+                      <li>•	Upgrading and Maintenance of softwares used in manufacturing department</li>
+                      <li>•	Installing Different types of software used for office work (MS office)</li>
+                      <li>•	Kept records of parts by using MS Excel used in manufacturing</li>
+                      <li>•	Assisted clients in person and through email</li>
+                      <li>•	Provided assistance in production of weighing machines</li>
+                      <li>•	Assigned work to manufacturing department</li>
+                  </ul>
                <span class="categories"><i class="fa fa-tag"></i>work</span>
 		      </div>
 
