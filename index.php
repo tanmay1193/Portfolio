@@ -273,7 +273,7 @@
 		      <img class="scale-with-grid" style="" src="images/portfolio/modals/office-work.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Office Assistant (Sept 2014 - June 2015)<br>Oster Scales, INDIA</h4>
+			      <h4>Office Assistant (Sept 2014 - June 2015)<br>Oster Scales and Lab Equipment, INDIA</h4>
 			      <ul>
                       <li>•	Worked with client in designing Page Object Model framework for selenium</li>
                       <li>•	Performed manual testing on web and mobile application</li>
