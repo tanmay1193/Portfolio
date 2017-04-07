@@ -94,10 +94,11 @@
 
 				   <ul class="skills">
                        <li><span class="bar-expand html5"></span><em>HTML5</em></li>
-						<li><span class="bar-expand css"></span><em>CSS</em></li>
-                  <li><span class="bar-expand javascript"></span><em>Javascript</em></li>
+				        <li><span class="bar-expand css"></span><em>CSS</em></li>
+                        <li><span class="bar-expand javascript"></span><em>Javascript</em></li>
+                       <li><span class="bar-expand trouble"></span><em>OS/Software Application Troubleshooting</em></li>
 					   <li><span class="bar-expand sql"></span><em>Microsoft SQl</em></li>
-                  <li><span class="bar-expand mvc"></span><em>C# .Net MVC Framework</em></li>
+                        <li><span class="bar-expand mvc"></span><em>C# .Net MVC Framework</em></li>
                        <li><span class="bar-expand java"></span><em>Java</em></li>
                        <li><span class="bar-expand uml"></span><em>Unified Modeling Language</em></li>
 						<li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>

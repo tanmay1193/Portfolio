@@ -338,6 +338,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 
+.trouble{
+    width: 90%;
+    -moz-animation: photoshop 2s ease;
+  	-webkit-animation: photoshop 2s ease;
+}
+
 .github {
   	width: 70%;
   	-moz-animation: photoshop 2s ease;
