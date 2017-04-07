@@ -273,8 +273,13 @@
 		      <img class="scale-with-grid" style="" src="images/portfolio/modals/office-work.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Office Assistant (Sept 2014 - June 2015)<br>Oster Scales and Lab Equipment, INDIA</h4>
+			      <h4>Analyst (Sept 2014 - June 2015)<br>Oster Scales and Lab Equipment, INDIA</h4>
 			      <ul>
+                      <li>•	Installing and configuring Windows OS(8.1 and 10) and Software Applications according to user Standards</li>
+                      <li>•	Upgrading and Maintenance of softwares used in manufacturing department</li>
+                      <li>•	Installing Different types of software used for office work (MS office)</li>
+                      <li>• Designed templates for company brochures using Adobe Photoshop.</li>
+                      <li>• Designed different types of form templates in word document.</li>
                       <li>•	Worked with client in designing Page Object Model framework for selenium</li>
                       <li>•	Performed manual testing on web and mobile application</li>
                       <li>•	Created test script using TestNG Annotation and POI Library</li>
@@ -283,8 +288,6 @@
                       <li>•	Worked on JIRA for task allocation, test case design, defect management, timesheet</li>
                       <li>•	Created POC for Mobile automation testing using Appium and Selenium</li>
                       <li>•	Created daily status reports and weekly status report for the client</li>
-                      <li>•	Upgrading and Maintenance of softwares used in manufacturing department</li>
-                      <li>•	Installing Different types of software used for office work (MS office)</li>
                       <li>•	Kept records of parts by using MS Excel used in manufacturing</li>
                       <li>•	Assisted clients in person and through email</li>
                       <li>•	Provided assistance in production of weighing machines</li>
