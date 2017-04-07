@@ -429,6 +429,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-webkit-keyframes trouble {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
