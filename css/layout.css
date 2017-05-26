@@ -10,9 +10,9 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat left center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
+   background: url(../images/IMG_6663.JPG) no-repeat  center ;
+   background-size: cover;
+
    text-align: center;
    overflow: hidden;
 }
@@ -117,7 +117,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #e6e6e6; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -146,7 +146,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #c5012e;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -156,7 +156,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #141414; }
 
 
 /* ------------------------------------------------------------------ */
@@ -302,7 +302,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .jquery {
-  	width: 55%;
+  	width: 60%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -319,8 +319,8 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 
-.uml {
-  	width: 77%;
+.ui {
+  	width: 90%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -337,7 +337,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 
-.trouble{
+.ps{
     width: 90%;
     -moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
@@ -360,7 +360,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .wordpress {
-  	width: 63%;
+  	width: 77%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -370,12 +370,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .css {
-  	width: 80%;
+  	width: 86%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .javascript {
-  	width: 65%;
+  	width: 73%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }

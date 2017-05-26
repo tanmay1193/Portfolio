@@ -20,6 +20,16 @@
    <link rel="stylesheet" href="css/media-queries.css">
    <link rel="stylesheet" href="css/magnific-popup.css">
 
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
    <!-- Script
    ================================================== -->
 	<script src="js/modernizr.js"></script>
@@ -41,7 +51,7 @@
          <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
 
-         <ul id="nav" class="nav">
+         <ul id="nav" class="nav" style="font-size:1.3em;">
             <li class="current"><a class="smoothscroll" href="#home">About</a></li>
 	         <li><a class="smoothscroll" href="#resume">Skills</a></li>
             <li><a class="smoothscroll" href="#portfolio">Works</a></li>
@@ -50,26 +60,31 @@
 
       </nav> <!-- end #nav-wrap -->
 
-      <div class="row banner">
+    <!--  <div class="row banner">
          <div class="banner-text">
-            <img class="profile-pic" style="width: 120px;height: 120px;border-radius: 100%;" src="images/profilepic.jpg" alt="Tanmay Teckchandani" />
+           <!-- <img class="profile-pic" style="width: 120px;height: 120px;border-radius: 100%;" src="images/profilepic.jpg" alt="Tanmay Teckchandani" />-->
 
-             <h3> < HELLO > < /WORLD > </h3>
-            <h2 class="responsive-headline" style="color:white;">I'm Tanmay Teckchandani</h2>
-            <h3>Computer Application Development Post-Grad Student Currently studying at Conestoga College, Canada. I have experience in building Websites and application development. My weapons of choice are: Html5, Css, Javascript, SQL, .Net framework and Wordpress. Also, I'm a Passionate Photographer. Let's <a class="smoothscroll" href="#resume">start scrolling</a>
-                and learn more about <a class="smoothscroll" href="#resume">my skills</a> and <a class="smoothscroll" href="#portfolio">my work</a>.</h3>
-            <hr />
-            <ul class="social">
-               <li><a href="https://ca.linkedin.com/in/tanmay-teckchandani-a6998078" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            <!-- <h3> < HELLO > < /WORLD > </h3>-->
+          <!--  <h2 class="responsive-headline" style="color:white;font-family:Century Gothic;"></h2>
+            <h3 > Let's <a class="smoothscroll" href="#resume">start scrolling</a>
+                and learn more about <a class="smoothscroll" href="#resume">my skills</a> and <a class="smoothscroll" href="#portfolio">my work</a>.</h3>-->
+            <hr /><br>
+             <br><br>
+    <br><br><br><br>
+              <br><br>
+    <br><br>
+
+           <!-- <ul class="social">
+               <li><a href="https://ca.linkedin.com/in/tanmay-teckchandani-a6998078" target="_blank"><i style="color:#c5012e;" class="fa fa-linkedin"></i></a></li>
                <li><a href="https://github.com/tanmay1193" target="_blank"><i class="fa fa-github"></i></a></li>
                <li><a href="skype:tanmay8040" target="_blank"><i class="fa fa-skype"></i></a></li>
                 <li><a href="https://plus.google.com/117748818570119397733" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-            </ul>
+            </ul>-->
          </div>
       </div>
 
       <p class="scrolldown">
-         <a class="smoothscroll" href="#resume"><i class="icon-down-circle"></i></a>
+         <a class="smoothscroll" href="#resume"><i class="icon-down-circle" style="font-size:48px;color:#c5012e"></i></a>
       </p>
 
    </header> <!-- Header End -->
@@ -87,26 +102,27 @@
          </div>
 
          <div class="nine columns main-col">
-
-            <p>Worked on responsive and dynamic websites using HTML/HTML5, CSS/CSS3, PHP, Bootstrap, JavaScript, jQuery. <br/>Experience in web applications using C# .Net Framework MVC, ASP.NET and Visual studio tools.</p>
+<h2>I'm Tanmay Teckchandani</h2>
+            <p style="font-family:Century Gothic;color:black;font-size:1.2em;"> <br/>Front-End Web Developer. I have experience in Designing and Developing Websites. My weapons of choice are: Adobe Photoshop, Html5, CSS, Javascript, Wordpress. Also, I'm a Passionate Photographer.</p>
 
 				<div class="bars">
 
 				   <ul class="skills">
-                       <li><span class="bar-expand html5"></span><em>HTML5</em></li>
-				        <li><span class="bar-expand css"></span><em>CSS</em></li>
-                        <li><span class="bar-expand javascript"></span><em>Javascript</em></li>
-                       <li><span class="bar-expand trouble"></span><em>OS/Software Application Troubleshooting</em></li>
-					   <li><span class="bar-expand sql"></span><em>Microsoft SQl</em></li>
-                        <li><span class="bar-expand mvc"></span><em>C# .Net MVC Framework</em></li>
-                       <li><span class="bar-expand java"></span><em>Java</em></li>
-                       <li><span class="bar-expand uml"></span><em>Unified Modeling Language</em></li>
-						<li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
-                       <li><span class="bar-expand jquery"></span><em>JQuery Mobile</em></li>
-                       <li><span class="bar-expand github"></span><em>Github</em></li>
-                       <li><span class="bar-expand android"></span><em>Android Studio</em></li>
-                       <li><span class="bar-expand vs"></span><em>Visual Studio|Code</em></li>
+
+                       <li><span style="background:#c5012e;" class="bar-expand ps"></span><em>Adobe Photoshop</em></li>
                        <li><span class="bar-expand photography"></span><em>Photography</em></li>
+                       <li><span style="background:#c5012e;" class="bar-expand ui"></span><em>UI/UX Designing</em></li>
+                       <li><span class="bar-expand html5"></span><em>HTML5</em></li>
+				        <li><span style="background:#c5012e;" class="bar-expand css"></span><em>CSS</em></li>
+                        <li><span class="bar-expand javascript"></span><em>Javascript</em></li>
+                       <li><span style="background:#c5012e;" class="bar-expand jquery"></span><em>JQuery Mobile</em></li>
+                       <li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
+					   <li><span style="background:#c5012e;" class="bar-expand sql"></span><em>Microsoft SQl</em></li>
+                        <li><span class="bar-expand mvc"></span><em>C# .Net MVC Framework</em></li>
+                       <li><span style="background:#c5012e;" class="bar-expand github"></span><em>Github</em></li>
+                       <li><span class="bar-expand android"></span><em>Android Studio</em></li>
+                       <li><span style="background:#c5012e;" class="bar-expand vs"></span><em>Visual Studio|Code</em></li>
+
 
 					</ul>
 
@@ -120,7 +136,7 @@
 
 
    <!-- Portfolio Section
-   ================================================== -->
+   ==================================================
    <section id="portfolio">
 
       <div class="row">
@@ -129,7 +145,7 @@
 
             <h1>My Works.</h1>
 
-            <!-- portfolio-wrapper -->
+            <!-- portfolio-wrapper
             <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
 
           	   <div class="columns portfolio-item">
@@ -147,7 +163,7 @@
                      </a>
 
                   </div>
-          		</div> <!-- item end -->
+          		</div> <!-- item end
 
                 <div class="columns portfolio-item">
                   <div class="item-wrap">
@@ -164,7 +180,7 @@
                      </a>
 
                   </div>
-          		</div> <!-- item end -->
+          		</div> <!-- item end
 
                 <div class="columns portfolio-item">
                   <div class="item-wrap">
@@ -181,8 +197,7 @@
                      </a>
 
                   </div>
-          		</div> <!-- item end -->
-
+          		</div> <!-- item end
                 <div class="columns portfolio-item">
                   <div class="item-wrap">
 
@@ -201,9 +216,61 @@
           		</div> <!-- item end -->
 
 
+
+
+
+
+
+ <section id="portfolio" style="background:#e6e6e6;">
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer;" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:300px">
+
+  <!-- Push down content on small screens -->
+  <div class="w3-hide-large" style="margin-top:83px"></div>
+
+  <!-- Photo grid -->
+  <div class="w3-row">
+    <div class="w3-third">
+      <img src="/images/FullSizeRender_4.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
+       <img src="/images/FullSizeRender.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="Canoeing again">
+
+      <img src="/w3images/girl.jpg" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+    </div>
+
+    <div class="w3-third">
+      <img src="/images/FullSizeRender_3.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="/images/IMG_6634.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Waiting for the bus in the desert">
+      <img src="/w3images/natureboy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
+    </div>
+
+    <div class="w3-third">
+       <img src="/w3images/girl_train.jpg" style="width:100%" onclick="onClick(this)" alt="A girl, and a train passing">
+      <img src="/w3images/closegirl.jpg" style="width:100%" onclick="onClick(this)" alt="What a beautiful day!">
+    </div>
+  </div>
+
+  <!-- Modal for full size images on click-->
+  <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
             </div> <!-- portfolio-wrapper end -->
 
-         </div> <!-- twelve columns end -->
+</section> <!-- twelve columns end -->
 
 
          <!-- Modal Popup
@@ -354,7 +421,7 @@
 						   214 Doon Valley Dr. <br>
 						   Kitchener, ON N2P 2B5 Canada<br>
 						   <span>(226) 338-7090</span><br>
-                           <a href="mailto:tteckchandani9481@conestogac.on.ca">tteckchandani9481@conestogac.on.ca</a>
+                           <a href="mailto:ttanmay1193@gmail.com">ttanmay1193@gmail.com</a>
 					   </p>
 
 				   </div>
@@ -406,6 +473,27 @@
    <script src="js/jquery.fittext.js"></script>
    <script src="js/magnific-popup.js"></script>
    <script src="js/init.js"></script>
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script>
 
 </body>
 
