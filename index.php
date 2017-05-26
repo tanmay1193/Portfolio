@@ -236,19 +236,20 @@
     <div class="w3-third">
       <img src="/images/FullSizeRender_4.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
        <img src="/images/FullSizeRender.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="Canoeing again">
+        <img src="/images/IMG_6669.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
 
-      <img src="/w3images/girl.jpg" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
     </div>
 
     <div class="w3-third">
-      <img src="/images/FullSizeRender_3.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
-      <img src="/images/IMG_6634.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Waiting for the bus in the desert">
-      <img src="/w3images/natureboy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
+      <img src="/images/IMG_6664.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="/images/IMG_6668.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Waiting for the bus in the desert">
+        <img src="/images/IMG_6634.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="/images/FullSizeRender_3.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+
     </div>
 
     <div class="w3-third">
-       <img src="/w3images/girl_train.jpg" style="width:100%" onclick="onClick(this)" alt="A girl, and a train passing">
-      <img src="/w3images/closegirl.jpg" style="width:100%" onclick="onClick(this)" alt="What a beautiful day!">
+
     </div>
   </div>
 
