@@ -234,17 +234,17 @@
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="/images/FullSizeRender_4.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
-       <img src="/images/FullSizeRender.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="Canoeing again">
-        <img src="/images/IMG_6669.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
+      <img src="/images/FullSizeRender_4.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
+       <img src="/images/FullSizeRender.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
+        <img src="/images/IMG_6669.jpg" style="width:100%" onclick="onClick(this)" alt="Graphic Designing">
 
     </div>
 
     <div class="w3-third">
-      <img src="/images/IMG_6664.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
-      <img src="/images/IMG_6668.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Waiting for the bus in the desert">
-        <img src="/images/IMG_6634.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
-      <img src="/images/FullSizeRender_3.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+      <img src="/images/IMG_6664.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Graphic Designing">
+      <img src="/images/IMG_6668.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Graphic Designing">
+        <img src="/images/IMG_6634.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
+      <img src="/images/FullSizeRender_3.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
 
     </div>
 
