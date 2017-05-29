@@ -234,11 +234,11 @@
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="/images/FullSizeRender_4.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
+      <img src="/images/IMG_6768.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="UI Prototyping">
        <img src="/images/IMG_6763.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
         <img src="/images/IMG_6760.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
         <img src="/images/FullSizeRender.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
-        <img src="/images/IMG_6768.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
+        <img src="/images/FullSizeRender_4.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
     </div>
 
     <div class="w3-third">
