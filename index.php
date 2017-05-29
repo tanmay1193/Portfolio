@@ -383,22 +383,17 @@
    </section> <!-- Portfolio Section End-->
 
 
-
    <!-- Contact Section
    ================================================== -->
    <section id="contact">
 
          <div class="row section-head">
 
-            <div class="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
-
-            </div>
 
             <div class="ten columns">
 
-                  <p class="lead">Contact Info.</p>
+                  <h1 class="lead">Contact Info.</h1>
 
             </div>
 
