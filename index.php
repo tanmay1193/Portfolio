@@ -235,15 +235,17 @@
   <div class="w3-row">
     <div class="w3-third">
       <img src="/images/FullSizeRender_4.jpg" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
-       <img src="/images/FullSizeRender.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
-        <img src="/images/IMG_6669.JPG" style="width:100%" onclick="onClick(this)" alt="Graphic Designing">
-
+       <img src="/images/IMG_6763.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
+        <img src="/images/IMG_6760.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
+        <img src="/images/FullSizeRender.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
+        <img src="/images/IMG_6768.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
     </div>
 
     <div class="w3-third">
       <img src="/images/IMG_6664.JPG" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Graphic Designing">
       <img src="/images/IMG_6668.JPG" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Graphic Designing">
         <img src="/images/IMG_6634.JPG" style="width:150%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
+        <img src="/images/IMG_6669.JPG" style="width:100%;padding:10px;" onclick="onClick(this)" alt="UI Design Weather App">
       <img src="/images/FullSizeRender_3.jpg" style="width:100%;padding:10px;" onclick="onClick(this)" alt="Photography Photoshop Editing">
 
     </div>
